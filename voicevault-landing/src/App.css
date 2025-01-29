@@ -1,0 +1,32 @@
+.voicevaultUsers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #0e0e0e; /* Dark background */
+  color: #ffffff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.voicevaultUsers-container h1 {
+  font-size: 3rem;
+  margin: 1.5rem;
+}
+
+.voicevaultUsers-container p {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.voicevaultUsers-container h3 {
+  opacity: 65%;
+}
+
+.voicevaultUsers-container a {
+  color: #4caf50; /* Highlighted email link */
+  text-decoration: underline;
+  font-weight: bold;
+  margin: 1rem;
+}
