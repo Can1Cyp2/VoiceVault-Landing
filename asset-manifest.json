@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VoiceVault-Landing/static/css/main.66629fa0.css",
-    "main.js": "/VoiceVault-Landing/static/js/main.e38f9772.js",
+    "main.js": "/VoiceVault-Landing/static/js/main.9b9709e8.js",
     "index.html": "/VoiceVault-Landing/index.html",
     "main.66629fa0.css.map": "/VoiceVault-Landing/static/css/main.66629fa0.css.map",
-    "main.e38f9772.js.map": "/VoiceVault-Landing/static/js/main.e38f9772.js.map"
+    "main.9b9709e8.js.map": "/VoiceVault-Landing/static/js/main.9b9709e8.js.map"
   },
   "entrypoints": [
     "static/css/main.66629fa0.css",
-    "static/js/main.e38f9772.js"
+    "static/js/main.9b9709e8.js"
   ]
 }
