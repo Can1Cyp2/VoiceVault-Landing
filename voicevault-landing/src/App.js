@@ -15,7 +15,7 @@ const App = () => {
         </p>
         <h3>
           In your message, please include the email you use for your account on
-          the app. If requesting to delete your account, upon deletionall of
+          the app. If requesting to delete your account, upon deletion all of
           your data will be removed from our servers.
         </h3>
       </div>
