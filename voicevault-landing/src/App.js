@@ -25,7 +25,7 @@ const App = () => {
             <strong>Effective Date:</strong> January 29, 2025
           </p>
           <p>
-            <strong>Last Updated:</strong> January 29, 2025
+            <strong>Last Updated:</strong> September 14, 2025
           </p>
 
           <p>
@@ -108,15 +108,24 @@ const App = () => {
           <ul>
             <li>
               No special permissions (e.g., camera, microphone, location) are
-              required.
+              required by the core app.
             </li>
             <li>
-              The app relies solely on Supabase for data storage and
-              authentication.
+              The app uses Supabase for data storage and authentication.
             </li>
             <li>
-              We do not use third-party analytics, tracking, or advertising
-              services.
+              This app includes third-party advertising services (Google
+              AdMob) in app builds. While the developer does not directly
+              collect gameplay data from this landing page, AdMob may collect
+              or process device identifiers and usage signals to deliver and
+              measure ads, perform analytics, and (if enabled) personalize
+              ads.
+            </li>
+            <li>
+              You can limit ad tracking on your device (for example, iOS:
+              Settings → Privacy → Tracking). Developers may also configure
+              AdMob to serve non-personalized ads only; consult Google
+              AdMob's documentation for implementation details.
             </li>
           </ul>
 
